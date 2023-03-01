@@ -1,0 +1,3 @@
+C:\Users\comeo\source\repos\Dice1\Dice1\obj\Debug\Dice1.njsproj.AssemblyReference.cache
+C:\Users\comeo\source\repos\Dice1\Dice1\obj\Debug\Dice1.njsproj.CoreCompileInputs.cache
+C:\Users\comeo\source\repos\Dice1\Dice1\bin\Microsoft.NodejsTools.WebRole.dll
